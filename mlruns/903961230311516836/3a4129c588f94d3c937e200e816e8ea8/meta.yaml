@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/903961230311516836/3a4129c588f94d3c937e200e816e8ea8/artifacts
+end_time: 1762684721356
+entry_point_name: ''
+experiment_id: '903961230311516836'
+lifecycle_stage: active
+run_id: 3a4129c588f94d3c937e200e816e8ea8
+run_name: efficient-hound-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762684715612
+status: 3
+tags: []
+user_id: ayushkayastha

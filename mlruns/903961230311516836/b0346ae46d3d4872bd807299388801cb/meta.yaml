@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/903961230311516836/b0346ae46d3d4872bd807299388801cb/artifacts
+end_time: 1762746823846
+entry_point_name: ''
+experiment_id: '903961230311516836'
+lifecycle_stage: active
+run_id: b0346ae46d3d4872bd807299388801cb
+run_name: dapper-ray-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762746818732
+status: 3
+tags: []
+user_id: ayushkayastha

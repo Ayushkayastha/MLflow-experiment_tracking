@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/903961230311516836/c892a0f99d3049298cd4bd5deb302ea9/artifacts
+end_time: 1762748525966
+entry_point_name: ''
+experiment_id: '903961230311516836'
+lifecycle_stage: active
+run_id: c892a0f99d3049298cd4bd5deb302ea9
+run_name: delightful-shoat-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762748519139
+status: 3
+tags: []
+user_id: ayushkayastha
