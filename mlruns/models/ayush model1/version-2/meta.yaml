@@ -1,0 +1,15 @@
+creation_timestamp: 1762750652438
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1762750652438
+model_id: m-9cba74e7aee9487c9e2bbfa24ba3b599
+name: ayush model1
+run_id: c892a0f99d3049298cd4bd5deb302ea9
+run_link: ''
+source: models:/m-9cba74e7aee9487c9e2bbfa24ba3b599
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/903961230311516836/models/m-9cba74e7aee9487c9e2bbfa24ba3b599/artifacts
+user_id: null
+version: 2

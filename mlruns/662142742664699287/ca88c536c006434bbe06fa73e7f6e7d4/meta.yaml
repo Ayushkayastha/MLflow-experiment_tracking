@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushkayastha/Desktop/MLflow-experiment_tracking/mlruns/662142742664699287/ca88c536c006434bbe06fa73e7f6e7d4/artifacts
+end_time: 1762749565728
+entry_point_name: ''
+experiment_id: '662142742664699287'
+lifecycle_stage: active
+run_id: ca88c536c006434bbe06fa73e7f6e7d4
+run_name: rumbling-moose-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762749559800
+status: 3
+tags: []
+user_id: ayushkayastha

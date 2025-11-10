@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushkayastha/Desktop/MLflow-experiment_tracking/mlruns/662142742664699287/3168f81e2f864339b02fc328601a7f21/artifacts
+end_time: 1762749562594
+entry_point_name: ''
+experiment_id: '662142742664699287'
+lifecycle_stage: active
+run_id: 3168f81e2f864339b02fc328601a7f21
+run_name: redolent-goat-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762749562587
+status: 3
+tags: []
+user_id: ayushkayastha

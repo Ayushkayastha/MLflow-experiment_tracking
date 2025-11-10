@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushkayastha/Desktop/MLflow-experiment_tracking/mlruns/662142742664699287/a5ef7893c46346ecb4dcd02e19bba23f/artifacts
+end_time: 1762749562578
+entry_point_name: ''
+experiment_id: '662142742664699287'
+lifecycle_stage: active
+run_id: a5ef7893c46346ecb4dcd02e19bba23f
+run_name: victorious-fawn-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762749562572
+status: 3
+tags: []
+user_id: ayushkayastha
